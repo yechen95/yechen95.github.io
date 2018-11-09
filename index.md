@@ -8,4 +8,4 @@ description: The subtitle
 
 Here is some stuff I've created:
 - [Time Series Analysis](/timeseries/index.md)
-- [My Example Repo](http://github.com/yechen95.github.io/)
+- [My Example Repo](http://github.com/yechen95.github.io/timeseries)
